@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajay Kumar S V
-- 🌱 I am from Banglore, India
-- 👀 I’m interested in Multi_Cloud DevOps Practices...
+- 🌱 Banglore, India
+- 👀 Working on Multi_Cloud DevOps Practices.
 - 📫 Reach me @ ajaykumar.sv003@gmail.com / +919986814595
 
 <!---
