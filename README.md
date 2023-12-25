@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajay Kumar S V
+- 👋 Hi, I’m Ajay Kumar S V
 - 🌱 Banglore, India
 - 👀 Working on Multi_Cloud DevOps Practices.
 - 📫 Reach me @ ajaykumar.sv003@gmail.com / +919986814595
